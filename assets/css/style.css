@@ -1,6 +1,6 @@
 body {
   background-color: #efeee7;
-  width: 960px;
+  /*width: 960px;*/
   margin: 20px;
   padding: 20px;
   font-family: "Georgia","Times New Roman", Times, serif; 
@@ -157,7 +157,7 @@ footer {
 
 @media screen and (max-width: 640px) {
   body {
-    background-color: yellow;
+    background-color: lightpurple;
   }
   .container1 {
     width: 100%;
